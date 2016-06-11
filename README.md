@@ -82,7 +82,9 @@ A: It's a fact,He is wrong.
 
 B:u r a great product manager.Why don't u just stick with stocks?
 
-A:u know me,I look for value,wherever it can be found.In fact,these mortgage backed securities r filled with extremely risky sub-prime adjustable rates.Once the majority of these adjustable rate kick in 2007.The American housing market is over.
+A:u know me,I look for value,wherever it can be found.In fact,these mortgage backed securities r filled 
+with extremely risky sub-prime adjustable rates.Once the majority of these adjustable rate kick in 2007.
+The American housing market is over.
 
 B:OK,just calm down!How much in total?
 
