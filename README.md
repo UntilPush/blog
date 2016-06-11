@@ -13,24 +13,22 @@ I believe that it's proper to set 3 roles in this dialogue.
 
 #First
 ```
-C: What is your basic mortgage bond? They were just thousands of AAA-mortgages bundled together,guaranteed by the US-government.
-The modern ones r different.They r private.And they r made up of layers of tranches.Highest level AAA's getting paid first.The lowest rated B's getting paid last,taking on defaults first.
-Obviously,if u r buying B's you could make more money with risky.Sometimes they couldn't repay.
-I'm talking rock-bottom Fico-scores.
-No income-verification.Adjustable rates.CDOs
+C: What is your basic mortgage bond? They were just thousands of AAA-mortgages bundled
+together,guaranteed by the US-government.The modern ones r different.They r private.
+And they r made up of layers of tranches.Highest level AAA's getting paid first.The
+lowest rated B's getting paid last,taking on defaults first.
+Obviously,if u r buying B's you could make more money with risk.Sometimes they couldn't
+repay.These bond with No income-verification,Adjustable rates will fail first.
+A lot of these BBB's r going to zero.
+And... This is an opportunity.
 
-With something called a credit default swap.
-It's like insurance on the bond,and if it goes bust,u can make 10-to-1.
+A:So...U r offering us a chance to short American Housing market.
+How to do this?
+
+C:With something called a credit default swap.We can make a deal that it's like insurance on the bond,and if it goes bust,u can make 10-to-1.
 Even 20-to-1 return,and it's already slowly going bust.
 
-No one is paying attention.Because the banks r too busy getting paid obscens fees to sell these bonds.
-
-A:Wait.U work for the bank,I bet ur margins r pretty nice.
-
-C:Mind ur business. Let's not talk about my margins.
-I work for bank！I didn't sell my brain to bank.
-Big bank,small bank..I work for money.
-I'm standing in front of a burning house,and I'm offering u fire insurance on it.
+C:I'm standing in front of a burning house,and I'm offering u fire insurance on it.
 
 A:How can these underlying bonds be as bad as u say?
 
@@ -102,5 +100,3 @@ In other words,we loss millions money until someting that has never happened bef
 
 A:That's correct.
 ```
-
-
