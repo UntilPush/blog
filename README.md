@@ -7,12 +7,13 @@ Where I design 3 roles in this dialogue:
 2. Product manager 1 of hedge fund(__A__ for short)
 3. Product manager of bank (__C_ for short)
 
-I believe that it's proper to set 4 roles in this dialogue.
-Designing B of hedge fund and product manager of bank
+I believe that it's proper to set 3 roles in this dialogue.
 
+---
 
-
->C: What is your basic mortgage bond? They were just thousands of AAA-mortgages bundled together,guaranteed by the US-government.
+#First
+```
+C: What is your basic mortgage bond? They were just thousands of AAA-mortgages bundled together,guaranteed by the US-government.
 The modern ones r different.They r private.And they r made up of layers of tranches.Highest level AAA's getting paid first.The lowest rated B's getting paid last,taking on defaults first.
 Obviously,if u r buying B's you could make more money with risky.Sometimes they couldn't repay.
 I'm talking rock-bottom Fico-scores.
@@ -59,8 +60,11 @@ Do u agree it?
 A:Fine.We will take 130 million Garabaldi-4 BBB credit swap.
 
 C:Sharpen ur pencils,I'll get the paperwork ready.
+```
+---
 
-
+#Second
+```
 A:B,I have put out sth really interesting.
 
 B:Great! Whenever u find sth interesting,we all sit to make money.
@@ -96,7 +100,7 @@ B:Do not throw our acception-agreement in my face!
 So now we pay up premiums on these swaps against housing market until the mortgages fail?
 In other words,we loss millions money until someting that has never happened before happens?
 
->A:That's correct.
-
+A:That's correct.
+```
 
 
