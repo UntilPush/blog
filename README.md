@@ -25,7 +25,8 @@ And... This is an opportunity.
 A:So...U r offering us a chance to short American Housing market.
 How to do this?
 
-C:With something called a credit default swap.We can make a deal that it's like insurance on the bond,and if it goes bust,u can make 10-to-1.
+C:With something called a credit default swap.We can make a deal that it's like 
+insurance on the bond,and if it goes bust,u can make 10-to-1.
 Even 20-to-1 return,and it's already slowly going bust.
 
 C:I'm standing in front of a burning house,and I'm offering u fire insurance on it.
