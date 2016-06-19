@@ -1,13 +1,4 @@
 
-I've excerpted dialogue form _the Big Short_ as my homework of interpret.
-
-Where I design 3 roles in this dialogue:
-
-1. B of hedge fund (__B__ for short)
-2. Product manager 1 of hedge fund(__A__ for short)
-3. Product manager of bank (__C_ for short)
-
-I believe that it's proper to set 3 roles in this dialogue.
 
 ---
 
